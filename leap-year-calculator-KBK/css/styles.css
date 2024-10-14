@@ -1,0 +1,17 @@
+#result {
+  display: none;
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: cursive;
+  font-size: 20px;
+}
